@@ -1,0 +1,3 @@
+<?php
+
+$example = "Hello World!";
